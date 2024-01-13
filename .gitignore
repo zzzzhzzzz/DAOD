@@ -140,3 +140,5 @@ run.slurm
 
 # output files
 outputs/
+output/
+data/
